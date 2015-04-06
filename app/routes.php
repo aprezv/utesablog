@@ -57,7 +57,7 @@ Route::post("/admin/facultades/delete",'FacultadController@delete');
 
 
 
-//Routes para carreras
+//Routes para carreras test
 Route::get("/admin/carreras",'CarreraController@all');
 Route::get("/admin/carreras/modal",'CarreraController@modal');
 Route::post("/admin/carreras/edit",'CarreraController@edit');
