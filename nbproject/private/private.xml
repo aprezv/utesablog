@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/laravel/app/views/profesores/group-members.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/admin/facultad/all.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/admin/person/all.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/home.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/public/assets/js/plugins/counter/jquery.counterup.min.js</file>
+            <file>file:/C:/wamp/www/laravel/app/views/layouts/footer.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/models/faculty.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/profesores/group-forum.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/public/assets/js/admin/careers.js</file>
+            <file>file:/C:/wamp/www/laravel/app/models/baseModel.php</file>
+            <file>file:/C:/wamp/www/laravel/app/controllers/PersonController.php</file>
+            <file>file:/C:/wamp/www/laravel/app/controllers/TestController.php</file>
+            <file>file:/C:/wamp/www/laravel/app/models/user.php</file>
+            <file>file:/C:/wamp/www/laravel/app/models/career.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/layouts/header.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/public/assets/css/pages/profile_custom.css</file>
+            <file>file:/C:/wamp/www/laravel/app/views/emails/auth/reminder.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/profesores/groups.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/controllers/admin/CarreraController.php</file>
+            <file>file:/C:/wamp/www/laravel/app/models/materia.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/profesores/master.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/models/forumThread.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/admin/carrera/all.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/admin/user/profile.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/admin/master.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/models/person.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/layouts/master.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/filters.php</file>
+            <file>file:/C:/wamp/www/laravel/app/controllers/ProfessorController.php</file>
+            <file>file:/C:/wamp/www/laravel/public/assets/js/plugins/counter/waypoints.min.js</file>
+            <file>file:/C:/wamp/www/laravel/app/controllers/admin/AdminController.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/admin/facultad/modal.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/public/assets/js/admin/faculties.js</file>
+            <file>file:/C:/wamp/www/laravel/app/views/admin/carrera/modal.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/controllers/IndexController.php</file>
+            <file>file:/C:/wamp/www/laravel/app/routes.php</file>
+            <file>file:/C:/wamp/www/laravel/app/models/group.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/profesores/group-files.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/admin/users/all.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/controllers/admin/FacultadController.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/admin/home.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/profesores/group-master.blade.php</file>
+            <file>file:/C:/wamp/www/laravel/app/views/profesores/home.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
