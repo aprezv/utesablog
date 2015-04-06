@@ -1,0 +1,62 @@
+body
+{
+	background-color: #CF6;
+}
+
+
+table
+{
+	font-family:verdana;
+	border-collapse:collapse;
+}
+
+h3
+{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color:#36C;
+}
+tr
+{
+	background-color:#3FF;
+}
+
+
+tr:nth-child(even) 
+{
+	background-color:#FFF;
+}
+
+
+.header
+{
+	width:90%;
+	height:60px;
+	background-color:#C09;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+.footer
+{
+	width:90%;
+	height:60px;
+	background-color: #FF9;
+	
+}
+
+.content
+{
+	width:90%;
+	margin-left:auto;
+	margin-right:auto;	
+}
+
+input[type='submit']
+{
+	background-color:#03F;
+	border-radius:5px;
+	color:#FFF;
+	font-family:verdana;
+	font-weight:bold;
+		
+}
